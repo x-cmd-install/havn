@@ -1,0 +1,195 @@
+- repo: alpine_3_20
+  subrepo: community
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.1.10
+  origversion: 0.1.10-r0
+  status: outdated
+  summary: A fast configurable port scanner with reasonable defaults
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.1.10
+  origversion: 0.1.10-r0
+  status: outdated
+  summary: A fast configurable port scanner with reasonable defaults
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.1.17
+  origversion: 0.1.17-r0
+  status: outdated
+  summary: A fast configurable port scanner with reasonable defaults
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.1.17
+  origversion: 0.1.17-r0
+  status: outdated
+  summary: A fast configurable port scanner with reasonable defaults
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.1.17
+  origversion: 0.1.17-r0
+  status: outdated
+  summary: A fast configurable port scanner with reasonable defaults
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.1.17
+  origversion: 0.1.17-r0
+  status: outdated
+  summary: A fast configurable port scanner with reasonable defaults
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: 0.3.9-1
+  status: newest
+  summary: A fast configurable port scanner with reasonable defaults
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: null
+  status: newest
+  summary: Fast configurable port scanner with reasonable defaults
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: 0.3.9-1
+  status: newest
+  summary: A fast configurable port scanner with reasonable defaults
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: 0.3.9-1
+  status: newest
+  summary: A fast configurable port scanner with reasonable defaults
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: 0.3.9-1
+  status: newest
+  summary: A fast configurable port scanner with reasonable defaults
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: havn
+  visiblename: havn
+  version: 0.1.13
+  origversion: null
+  status: outdated
+  summary: Fast configurable port scanner with reasonable defaults
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: havn
+  visiblename: havn
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Fast configurable port scanner with reasonable defaults
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: havn
+  visiblename: havn
+  version: 0.3.3
+  origversion: null
+  status: outdated
+  summary: Fast configurable port scanner with reasonable defaults
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: havn
+  visiblename: havn
+  version: 0.3.7
+  origversion: null
+  status: outdated
+  summary: Fast configurable port scanner with reasonable defaults
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: null
+  status: newest
+  summary: Fast configurable port scanner with reasonable defaults
+  maintainers:
+    - valentinobocchetti59@gmail.com
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: havn
+  binname: havn
+  visiblename: havn
+  version: 0.3.9
+  origversion: 0.3.9-1
+  status: newest
+  summary: A fast configurable port scanner with reasonable defaults
+  licenses:
+    - MIT
