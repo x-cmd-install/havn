@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 474034,
       "digest": "sha256:5de04a3119d0362c9058ebf069fe9822f9a4fa6df36ebf85906e305781fac8bc",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-08-23T14:04:33Z",
       "updated_at": "2026-08-23T14:04:33Z",
       "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.9/havn_linux_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 365908,
       "digest": "sha256:69a9aee24336901d58ea0c50fb558206d4d51469d94104da531b0064ab9b34ad",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-23T14:04:32Z",
       "updated_at": "2026-08-23T14:04:32Z",
       "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.9/havn_windows_x86_64.zip"
