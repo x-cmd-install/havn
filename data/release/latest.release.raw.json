@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mrjackwills/havn/releases/375227936",
-  "assets_url": "https://api.github.com/repos/mrjackwills/havn/releases/375227936/assets",
-  "upload_url": "https://uploads.github.com/repos/mrjackwills/havn/releases/375227936/assets{?name,label}",
-  "html_url": "https://github.com/mrjackwills/havn/releases/tag/v0.3.9",
-  "id": 375227936,
+  "url": "https://api.github.com/repos/mrjackwills/havn/releases/401868287",
+  "assets_url": "https://api.github.com/repos/mrjackwills/havn/releases/401868287/assets",
+  "upload_url": "https://uploads.github.com/repos/mrjackwills/havn/releases/401868287/assets{?name,label}",
+  "html_url": "https://github.com/mrjackwills/havn/releases/tag/v0.3.10",
+  "id": 401868287,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJkwCcs4WXYYg",
-  "tag_name": "v0.3.9",
+  "node_id": "RE_kwDOJkwCcs4X9AX_",
+  "tag_name": "v0.3.10",
   "target_commitish": "main",
-  "name": "v0.3.9",
+  "name": "v0.3.10",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-23T14:02:01Z",
-  "updated_at": "2026-08-23T14:04:34Z",
-  "published_at": "2026-08-23T14:04:32Z",
+  "created_at": "2026-10-02T14:00:47Z",
+  "updated_at": "2026-10-02T14:03:08Z",
+  "published_at": "2026-10-02T14:03:05Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/526279337",
-      "id": 526279337,
-      "node_id": "RA_kwDOJkwCcs4fXmKp",
+      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/605735977",
+      "id": 605735977,
+      "node_id": "RA_kwDOJkwCcs4kGswp",
       "name": "havn_linux_aarch64.tar.gz",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 458685,
-      "digest": "sha256:1b759f6f03b097e409a3545b893d21db79d191a2d262ad8cf1b97f7eb5080593",
-      "download_count": 10,
-      "created_at": "2026-08-23T14:04:34Z",
-      "updated_at": "2026-08-23T14:04:34Z",
-      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.9/havn_linux_aarch64.tar.gz"
+      "size": 458623,
+      "digest": "sha256:05957ebfac6c7736b833751232dae4767e2a884514dbc45846fb636e4cb5b971",
+      "download_count": 1,
+      "created_at": "2026-10-02T14:03:08Z",
+      "updated_at": "2026-10-02T14:03:08Z",
+      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.10/havn_linux_aarch64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/526279331",
-      "id": 526279331,
-      "node_id": "RA_kwDOJkwCcs4fXmKj",
+      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/605735956",
+      "id": 605735956,
+      "node_id": "RA_kwDOJkwCcs4kGswU",
       "name": "havn_linux_armv6.tar.gz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 450582,
-      "digest": "sha256:56275f5835a0bd569c6baadee409588210893d1a89fbcf26e5f16695a7cdffb0",
-      "download_count": 4,
-      "created_at": "2026-08-23T14:04:33Z",
-      "updated_at": "2026-08-23T14:04:33Z",
-      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.9/havn_linux_armv6.tar.gz"
+      "size": 452919,
+      "digest": "sha256:fc7d2a2533675e493a52bc0d3de3b853feaa5c68139809f9bc6065b96355d577",
+      "download_count": 0,
+      "created_at": "2026-10-02T14:03:07Z",
+      "updated_at": "2026-10-02T14:03:08Z",
+      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.10/havn_linux_armv6.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/526279325",
-      "id": 526279325,
-      "node_id": "RA_kwDOJkwCcs4fXmKd",
+      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/605735930",
+      "id": 605735930,
+      "node_id": "RA_kwDOJkwCcs4kGsv6",
       "name": "havn_linux_x86_64.tar.gz",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 474034,
-      "digest": "sha256:5de04a3119d0362c9058ebf069fe9822f9a4fa6df36ebf85906e305781fac8bc",
-      "download_count": 91,
-      "created_at": "2026-08-23T14:04:33Z",
-      "updated_at": "2026-08-23T14:04:33Z",
-      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.9/havn_linux_x86_64.tar.gz"
+      "size": 472663,
+      "digest": "sha256:3e1c3a8123dbac224e8b100fe2d9b09ef70868ce935a7efc3eeb95ce2f501a64",
+      "download_count": 0,
+      "created_at": "2026-10-02T14:03:07Z",
+      "updated_at": "2026-10-02T14:03:07Z",
+      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.10/havn_linux_x86_64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/526279319",
-      "id": 526279319,
-      "node_id": "RA_kwDOJkwCcs4fXmKX",
+      "url": "https://api.github.com/repos/mrjackwills/havn/releases/assets/605735898",
+      "id": 605735898,
+      "node_id": "RA_kwDOJkwCcs4kGsva",
       "name": "havn_windows_x86_64.zip",
       "label": "",
       "uploader": {
@@ -173,15 +173,15 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 365908,
-      "digest": "sha256:69a9aee24336901d58ea0c50fb558206d4d51469d94104da531b0064ab9b34ad",
-      "download_count": 17,
-      "created_at": "2026-08-23T14:04:32Z",
-      "updated_at": "2026-08-23T14:04:32Z",
-      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.9/havn_windows_x86_64.zip"
+      "size": 366713,
+      "digest": "sha256:782c657d4ebe8461d7eeadc359205101dab058271ab1050df4e7c9c1013af2fe",
+      "download_count": 3,
+      "created_at": "2026-10-02T14:03:06Z",
+      "updated_at": "2026-10-02T14:03:06Z",
+      "browser_download_url": "https://github.com/mrjackwills/havn/releases/download/v0.3.10/havn_windows_x86_64.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mrjackwills/havn/tarball/v0.3.9",
-  "zipball_url": "https://api.github.com/repos/mrjackwills/havn/zipball/v0.3.9",
-  "body": "### 2026-08-23\n\n### Chores\r\n+ Rust version bump to 1.91.1, [9b0455083d92101d3c1f9c1c6d818fc3165bebbe]\r\n+ GitHub workflow updated, [46058e9a73dd55a7ae1c95ca3abca23917c1cdcb]\r\n+ dependencies updated, [8d5d86b493ac96ac6fd739d3a4a133cd8a5f77a7], [34c1308d906fe807ad2df02e18c89fd91e35134a]\r\n\r\n### Features\r\n+ use `futures::stream` instead of `tokio::spawn`, [4f94ed82eac32555c0f93b09f194d3d7189c1814]\r\n\r\n### Fixes\r\n+ use saturating arithmetic, [81ab40dddba476e12b60ff284e0715ab88159adf]\r\n+ parse_arg check for 0 values, [9fe2b6dc1ab7348e0442a27cf5b81ff0953df4b2]\r\n+ _typos.toml, [d8216adb883e4f2cc168911383143816b6ed252d]\r\n\r\n\nsee <a href='https://github.com/mrjackwills/havn/blob/main/CHANGELOG.md'>CHANGELOG.md</a> for more details\n"
+  "tarball_url": "https://api.github.com/repos/mrjackwills/havn/tarball/v0.3.10",
+  "zipball_url": "https://api.github.com/repos/mrjackwills/havn/zipball/v0.3.10",
+  "body": "### 2026-10-02\n\n### Chores\r\n+ dependencies updated, [a8b3659a525e314d265275cc7ac7e68c3ea580c0]\r\n+ Rust version bump, [c67525f9a72d836c460d2ec442fe45027bc8b16b]\r\n\r\n### Fixes\r\n+ set minimum port number to 1, [be9591b30f7154dc92f4b24a48018f05f968e12c]\r\n\r\n\nsee <a href='https://github.com/mrjackwills/havn/blob/main/CHANGELOG.md'>CHANGELOG.md</a> for more details\n"
 }
